@@ -1,0 +1,96 @@
+Chemicals with appearance gaps:
+{'Chemical: AOX | Last Measure Before Gap: 1998-12-19 00:00:00 | First Measure After Gap: 2008-01-10 00:00:00 |Value: 17.8 | Gap (Days): 3309'}
+{'Chemical: Arsenic | Last Measure Before Gap: 1998-12-19 00:00:00 | First Measure After Gap: 2004-03-14 00:00:00 |Value: 2.227 | Gap (Days): 1912'}
+{'Chemical: Benzo(g,h,i)perylene | Last Measure Before Gap: 2003-08-15 00:00:00 | First Measure After Gap: 2009-07-03 00:00:00 |Value: 0.002 | Gap (Days): 2149'}
+{'Chemical: Carbonates | Last Measure Before Gap: 2008-10-19 00:00:00 | First Measure After Gap: 2015-12-09 00:00:00 |Value: 140.3 | Gap (Days): 2607'}
+{'Chemical: Dissolved organic carbon | Last Measure Before Gap: 2008-10-19 00:00:00 | First Measure After Gap: 2014-01-06 00:00:00 |Value: 4.75 | Gap (Days): 1905'}
+{'Chemical: Indeno(1,2,3-c,d)pyrene | Last Measure Before Gap: 2003-08-15 00:00:00 | First Measure After Gap: 2009-07-03 00:00:00 |Value: 0.0 | Gap (Days): 2149'}
+{'Chemical: Mercury | Last Measure Before Gap: 1998-12-19 00:00:00 | First Measure After Gap: 2005-01-14 00:00:00 |Value: 0.407 | Gap (Days): 2218'}
+
+Measures after 2010:
+AGOC-3A, 2014-01-04
+Berilium, 2012-08-25
+Boron, 2012-08-25
+Chlorodinine, 2014-01-04
+Methylosmoline, 2014-01-04
+Total dissolved phosphorus, 2015-01-08
+
+Abnormal measure changes:
+{'Measure': 'Copper', 'Value Change': 1077.8300000000002, 'Sample Date': '2016-04-01T00:00:00.000000000'}
+{'Measure': 'Copper', 'Value Change': -1082.63, 'Sample Date': '2016-04-01T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': 37958.69, 'Sample Date': '2006-06-01T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': -19989.28, 'Sample Date': '2006-06-01T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': 2718.5999999999985, 'Sample Date': '1998-10-01T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': 4101.93, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': -3124.6899999999987, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': 12748.119999999999, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': -2411.7599999999984, 'Sample Date': '2015-04-10T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': -3100.6100000000006, 'Sample Date': '2015-04-10T00:00:00.000000000'}
+{'Measure': 'Iron', 'Value Change': -28901.19, 'Sample Date': '2002-08-10T00:00:00.000000000'}
+{'Measure': 'Manganese', 'Value Change': 1542.0, 'Sample Date': '2006-06-01T00:00:00.000000000'}
+{'Measure': 'Manganese', 'Value Change': -1530.0, 'Sample Date': '2006-06-01T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1099.6, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 16089.97, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -16084.6, 'Sample Date': '2003-04-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1295.1, 'Sample Date': '2000-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1294.6, 'Sample Date': '2009-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1208.0, 'Sample Date': '1998-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1299.64, 'Sample Date': '1998-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 2399.57, 'Sample Date': '1998-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -2382.5, 'Sample Date': '1999-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 3284.0, 'Sample Date': '1999-12-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -3296.6, 'Sample Date': '2000-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 4590.8, 'Sample Date': '2000-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -4600.0, 'Sample Date': '2000-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 12994.6, 'Sample Date': '2006-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -12984.0, 'Sample Date': '2006-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1692.1, 'Sample Date': '2006-02-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1700.0, 'Sample Date': '2008-01-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1085.9, 'Sample Date': '2008-01-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1099.97, 'Sample Date': '2008-01-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1293.0, 'Sample Date': '2003-07-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1289.0, 'Sample Date': '2003-07-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1690.6, 'Sample Date': '2003-07-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1690.8, 'Sample Date': '2000-03-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 2390.8, 'Sample Date': '2011-03-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1300.0, 'Sample Date': '2011-03-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1099.94, 'Sample Date': '2011-03-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1299.05, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1299.84, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1289.1, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1293.0, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1099.08, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1087.0, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1292.1, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1300.0, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1289.1, 'Sample Date': '2007-05-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 1399.55, 'Sample Date': '2000-11-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -1384.0, 'Sample Date': '2000-11-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 2392.1, 'Sample Date': '2000-11-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -2384.0, 'Sample Date': '2007-11-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': 2308.0, 'Sample Date': '2007-11-10T00:00:00.000000000'}
+{'Measure': 'Total coliforms', 'Value Change': -2367.0, 'Sample Date': '2007-11-10T00:00:00.000000000'}
+{'Measure': 'Total dissolved salts', 'Value Change': 1675.0, 'Sample Date': '2016-04-01T00:00:00.000000000'}
+{'Measure': 'Total dissolved salts', 'Value Change': -2117.0, 'Sample Date': '2016-04-01T00:00:00.000000000'}
+
+Anomalies:
+Measure: AGOC-3A, Sample Date: 2015-01-29 00:00:00, Value: 226.904
+Measure: Biochemical Oxygen, Sample Date: 2002-10-10 00:00:00, Value: 58.2
+Measure: Biochemical Oxygen, Sample Date: 2016-02-17 00:00:00, Value: 74.71
+Measure: Biochemical Oxygen, Sample Date: 1998-08-22 00:00:00, Value: 62.5
+Measure: Biochemical Oxygen, Sample Date: 1998-06-27 00:00:00, Value: 58.4
+Measure: Cadmium, Sample Date: 2007-05-10 00:00:00, Value: 148.3
+Measure: Chemical Oxygen Demand (Cr), Sample Date: 2016-02-17 00:00:00, Value: 431.09
+Measure: Copper, Sample Date: 2003-08-15 00:00:00, Value: 1123.13
+Measure: Fecal streptococci , Sample Date: 2011-04-27 00:00:00, Value: 330.0
+Measure: Iron, Sample Date: 2003-08-15 00:00:00, Value: 37959.28
+Measure: Iron, Sample Date: 2003-08-15 00:00:00, Value: 34413.96
+Measure: Iron, Sample Date: 2003-08-15 00:00:00, Value: 32002.2
+Measure: Manganese, Sample Date: 1999-07-15 00:00:00, Value: 1910.0
+Measure: Nitrites, Sample Date: 2006-04-15 00:00:00, Value: 1.51
+Measure: Nitrites, Sample Date: 2014-12-03 00:00:00, Value: 2.052
+Measure: Orthophosphate-phosphorus, Sample Date: 2013-12-12 00:00:00, Value: 1.75
+Measure: Total coliforms, Sample Date: 2009-01-15 00:00:00, Value: 16090.0
+Measure: Total coliforms, Sample Date: 2010-10-20 00:00:00, Value: 13000.0
+Measure: Total phosphorus, Sample Date: 2006-11-25 00:00:00, Value: 3.6
+Measure: Total phosphorus, Sample Date: 2006-11-25 00:00:00, Value: 4.07
